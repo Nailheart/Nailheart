@@ -19,14 +19,10 @@ I have successfully completed such courses
 
 ## GitHub
 
-<br>
-
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Nailheart&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub stats">
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailheart&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs">
+<a><img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Nailheart&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub stats"></a>
+<a><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailheart&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs"></a>
 
 ## Languages and Tools
-
-<br>
 
 [![HTML5](img/html5.svg)](https://www.w3.org/html/)
 [![CSS3](img/css3.svg)](https://www.w3.org/Style/CSS/)
@@ -40,8 +36,6 @@ I have successfully completed such courses
 [![Markdown](img/markdown.svg)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Coding activity
-
-<br>
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nailheart&theme=tokyonight&hide_border=true)
 
