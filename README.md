@@ -1,10 +1,4 @@
-<div style="background-image: url('img/Menu_Theme_Infected.webp'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover; position: relative;">
-
-<h1 style="display: flex; align-items: center; justify-content: center; flex-direction: column; font-size: calc(1.5rem + 3.5vw); line-height: 1;">
-  <img src="img/dialogue_top.webp" style="display: block; max-width: 100%; height: auto;">
-  <span>Welcome</span>
-  <img style="display: block; max-width: 100%; height: auto;" src="img/dialogue_bottom.webp">
-</h1>
+# Hello World
 
 ## GitHub
 
@@ -42,5 +36,3 @@ My rank on [codewars](https://www.codewars.com/users/Nailheart)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Nailheart/Nailheart)](https://github.com/Nailheart)
 [![wakatime](https://wakatime.com/badge/user/6e2dd1b4-523c-4f5a-9937-1d51f01cd510.svg)](https://wakatime.com/@6e2dd1b4-523c-4f5a-9937-1d51f01cd510)
-
-</div>
