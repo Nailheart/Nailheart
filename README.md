@@ -1,4 +1,88 @@
-<link rel="stylesheet" href="css/style.css">
+<style>
+.wrapper {
+  background-image: url('img/Menu_Theme_Infected.webp');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: calc(1.5rem + 3.5vw);
+  line-height: 1;
+}
+
+.img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.certificate-link:hover {
+  text-decoration: none;
+}
+
+.tiktik-box {
+  width: 100px;
+  height: 100px;
+  background-image: url('img/box.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  right: 50px;
+  bottom: 120px;
+}
+
+.tiktik {
+  width: 50px;
+  height: 43px;
+  background-image: url('img/tiktik.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: 5s linear infinite move_tiktik;
+  position: absolute;
+  top: -36px;
+  left: 0px;
+}
+
+@keyframes move_tiktik {
+  0% {
+    transform: translateX(-35px);
+  }
+
+  25% {
+    transform: translateX(80px);
+  }
+
+  26% {
+    transform: translate(87px, 0) rotate(90deg);
+  }
+
+  50% {
+    transform: translate(87px, 120px) rotate(90deg);
+  }
+
+  51% {
+    transform: translate(87px, 125px) rotate(180deg);
+  }
+
+  75% {
+    transform: translate(-30px, 125px) rotate(180deg);
+  }
+
+  76% {
+    transform: translate(-35px, 125px) rotate(270deg);
+  }
+
+  100% {
+    transform: translate(-35px, 0) rotate(270deg);
+  }
+}
+</style>
 
 <div class="wrapper">
 <h1 class="h1">
