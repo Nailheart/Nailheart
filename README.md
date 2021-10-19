@@ -1,94 +1,9 @@
-<style>
-.wrapper {
-  background-image: url('img/Menu_Theme_Infected.webp');
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
+<div style="background-image: url('img/Menu_Theme_Infected.webp'); background-attachment: fixed; background-repeat: no-repeat; background-size: cover; position: relative;">
 
-.h1 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  font-size: calc(1.5rem + 3.5vw);
-  line-height: 1;
-}
-
-.img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-.certificate-link:hover {
-  text-decoration: none;
-}
-
-.tiktik-box {
-  width: 100px;
-  height: 100px;
-  background-image: url('img/box.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: absolute;
-  right: 50px;
-  bottom: 120px;
-}
-
-.tiktik {
-  width: 50px;
-  height: 43px;
-  background-image: url('img/tiktik.gif');
-  background-repeat: no-repeat;
-  background-size: cover;
-  animation: 5s linear infinite move_tiktik;
-  position: absolute;
-  top: -36px;
-  left: 0px;
-}
-
-@keyframes move_tiktik {
-  0% {
-    transform: translateX(-35px);
-  }
-
-  25% {
-    transform: translateX(80px);
-  }
-
-  26% {
-    transform: translate(87px, 0) rotate(90deg);
-  }
-
-  50% {
-    transform: translate(87px, 120px) rotate(90deg);
-  }
-
-  51% {
-    transform: translate(87px, 125px) rotate(180deg);
-  }
-
-  75% {
-    transform: translate(-30px, 125px) rotate(180deg);
-  }
-
-  76% {
-    transform: translate(-35px, 125px) rotate(270deg);
-  }
-
-  100% {
-    transform: translate(-35px, 0) rotate(270deg);
-  }
-}
-</style>
-
-<div class="wrapper">
-<h1 class="h1">
-  <img class="img" src="img/dialogue_top.webp">
-  <span class="h1__text">Welcome</span>
-  <img class="img" src="img/dialogue_bottom.webp">
+<h1 style="display: flex; align-items: center; justify-content: center; flex-direction: column; font-size: calc(1.5rem + 3.5vw); line-height: 1;">
+  <img src="img/dialogue_top.webp" style="display: block; max-width: 100%; height: auto;">
+  <span>Welcome</span>
+  <img style="display: block; max-width: 100%; height: auto;" src="img/dialogue_bottom.webp">
 </h1>
 
 ## GitHub
@@ -128,7 +43,4 @@ My rank on [codewars](https://www.codewars.com/users/Nailheart)
 [![Visits Badge](https://badges.pufler.dev/visits/Nailheart/Nailheart)](https://github.com/Nailheart)
 [![wakatime](https://wakatime.com/badge/user/6e2dd1b4-523c-4f5a-9937-1d51f01cd510.svg)](https://wakatime.com/@6e2dd1b4-523c-4f5a-9937-1d51f01cd510)
 
-<div class="tiktik-box">
-  <div class="tiktik"></div>
-</div>
 </div>
