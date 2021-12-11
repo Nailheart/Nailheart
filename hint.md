@@ -1,18 +1,30 @@
 # Ссылки на полезные ресурсы
 
-## Примеры адаптивной навигации:
+## Примеры кода:
+- [Blueprints Archives | Codrops](https://tympanus.net/codrops/category/blueprints/)
+- [BBBootstrap - House of cool code snippets](https://bbbootstrap.com/)
+- [button hover](https://www.whitelabeldevelopers.ru/articles/20-udivitelnyix-animirovannyix-knopok-na-chistom-css)
+- [51 CSS Hamburger Menu Icons](https://freefrontend.com/css-hamburger-menu-icons/)
+
+### Адаптивная навигация:
 - [Horizontal scroll navigation](https://codepen.io/stevemckinney/pen/yNBNKa)
 - [Horizontal scrolling navigation with submenu](https://codepen.io/stevemckinney/pen/WowBWK)
 - [Greedy Navigation](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [Greedy Navigation Update](https://codepen.io/lukejacksonn/pen/BowbWE)
+- [Greedy Pure - Priority Navigation Menu](https://codepen.io/tiberiualex/pen/rxZbeN)
 - [Responsive horizontal menu](https://codepen.io/Dreamdealer/pen/waVzmK)
 - [Overflow horizontal navigation to drop down list](https://codepen.io/iamscottfreeman/pen/wBNoXx)
+
+## Интересные ресурсы:
+- [Shape Divider](https://www.shapedivider.app/)
+- [Pure CSS Loader](https://loading.io/css/)
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
+- [Colorscheme - конвертер цветов](https://colorscheme.ru/color-converter.html)
 
 ## БЭМ:
 - [БЭМ](https://ru.bem.info/)
 - [Генератор HTML-дерева](https://yoksel.github.io/html-tree/)
 
-## Flexbox/Grid
+## Flexbox/Grid:
 - [Шпаргалка по Flexbox CSS](https://tpverstak.ru/flex-cheatsheet/)
 - [Шпаргалка по Grid CSS](https://tpverstak.ru/grid/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
@@ -25,6 +37,10 @@
 - [Иконки для коммитов](https://gitmoji.dev/)
 - [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
 - [Git happens! 6 типичных ошибок Git и как их исправить](https://habr.com/ru/company/flant/blog/419733/)
+- [Github markdown emoji](https://gist.github.com/rxaviers/7360908)
+
+## Типография:
+- [Типограф](https://www.artlebedev.ru/typograf/)
 
 ## Карты:
 - [Google Maps — кастомизируй меня полностью](https://habr.com/ru/post/324880/)
@@ -33,6 +49,15 @@
 ## Доступность:
 - [Эффективное использование ARIA в HTML5](http://prgssr.ru/development/ispolzovanie-aria-v-html5.html)
 
-## Хабр статьи:
-- [Введение в отладку на примере Firefox DevTools](https://habr.com/ru/post/592095/)
+## Паттерны проектирования:
+- [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+
+## Cтатьи:
 - [Быстрый способ протестировать сайт в разных десктопных браузерах](https://habr.com/ru/post/111748/)
+- [Более 15 полезных инструментов для фронтендера с уклоном в CSS](https://habr.com/ru/company/skillfactory/blog/569874/)
+- [CANVAS шаг за шагом: Основы](https://habr.com/ru/post/111308/)
+- [Как сделать собственный видео-плеер на HTML5 Video](https://habr.com/ru/company/microsoft/blog/127295/)
+
+### Отладка:
+- [Введение в отладку на примере Firefox DevTools](https://habr.com/ru/post/592095/)
+- [Отладка JavaScript в Google Chrome и Visual Studio Code](https://medium.com/devschacht/%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-javascript-%D0%B2-google-chrome-%D0%B8-visual-studio-code-c2f07603a5b8)
