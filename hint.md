@@ -1,10 +1,11 @@
 # Ссылки на полезные ресурсы
 
 ## Примеры кода:
+- [HTML5CSS Как Сделать](https://html5css.ru/howto/default.php)
 - [Blueprints Archives | Codrops](https://tympanus.net/codrops/category/blueprints/)
 - [BBBootstrap - House of cool code snippets](https://bbbootstrap.com/)
 - [button hover](https://www.whitelabeldevelopers.ru/articles/20-udivitelnyix-animirovannyix-knopok-na-chistom-css)
-- [51 CSS Hamburger Menu Icons](https://freefrontend.com/css-hamburger-menu-icons/)
+- [Free Frontend](https://freefrontend.com/)
 
 ### Адаптивная навигация:
 - [Horizontal scroll navigation](https://codepen.io/stevemckinney/pen/yNBNKa)
@@ -38,11 +39,13 @@
 - [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
 - [Git happens! 6 типичных ошибок Git и как их исправить](https://habr.com/ru/company/flant/blog/419733/)
 - [Github markdown emoji](https://gist.github.com/rxaviers/7360908)
+- [Github Metrics](https://github.com/lowlighter/metrics)
 
 ## Типография:
 - [Типограф](https://www.artlebedev.ru/typograf/)
 
 ## Карты:
+- [Как сделать - карту Google](https://html5css.ru/howto/howto_google_maps.php)
 - [Google Maps — кастомизируй меня полностью](https://habr.com/ru/post/324880/)
 - [Leaflet](https://leafletjs.com/)
 
@@ -52,12 +55,22 @@
 ## Паттерны проектирования:
 - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
+## Frameworks:
+- [UI Framework](https://codyhouse.co/)
+
 ## Cтатьи:
 - [Быстрый способ протестировать сайт в разных десктопных браузерах](https://habr.com/ru/post/111748/)
 - [Более 15 полезных инструментов для фронтендера с уклоном в CSS](https://habr.com/ru/company/skillfactory/blog/569874/)
 - [CANVAS шаг за шагом: Основы](https://habr.com/ru/post/111308/)
 - [Как сделать собственный видео-плеер на HTML5 Video](https://habr.com/ru/company/microsoft/blog/127295/)
+- [Мега-Учебник Flask](https://habr.com/ru/post/193242/)
 
 ### Отладка:
 - [Введение в отладку на примере Firefox DevTools](https://habr.com/ru/post/592095/)
 - [Отладка JavaScript в Google Chrome и Visual Studio Code](https://medium.com/devschacht/%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-javascript-%D0%B2-google-chrome-%D0%B8-visual-studio-code-c2f07603a5b8)
+- [17 лучших инструментов для кроссбраузерной проверки](https://freelance.today/poleznoe/17-luchshih-instrumentov-dlya-krossbrauzernoy-proverki.html)
+
+## Интересные портфолио:
+- [Jack Jeznach](https://jacekjeznach.com/)
+- [Bruno Simon](https://bruno-simon.com/)
+- [Yoichi Kobayashi](https://www.tplh.net/)
