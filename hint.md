@@ -20,6 +20,9 @@
 - [Pure CSS Loader](https://loading.io/css/)
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
 - [Colorscheme - конвертер цветов](https://colorscheme.ru/color-converter.html)
+- [Favicon Generator](https://realfavicongenerator.net/)
+- [I Love IMG](https://www.iloveimg.com/)
+- [Open source icons](https://ionic.io/ionicons)
 
 ## БЭМ:
 - [БЭМ](https://ru.bem.info/)
