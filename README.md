@@ -1,7 +1,13 @@
+<div align="center">
+
 # Hello there, 👋
 
-My&nbsp;name is&nbsp;Yaroslav. I&rsquo;m a&nbsp;front-end developer from Ukraine
+My&nbsp;name is&nbsp;Yaroslav. I&rsquo;m a&nbsp;front-end developer from Ukraine.<br>
 Here is my little [portfolio&nbsp;website](https://nailheart.github.io/).
+
+<img src="img/preview_bg.jpg" height="250">
+
+</div>
 
 ## GitHub
 
