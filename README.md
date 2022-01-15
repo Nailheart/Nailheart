@@ -1,5 +1,3 @@
-<div align="center">
-  
 # Hello there, 👋
 
 My&nbsp;name is&nbsp;Yaroslav. I&rsquo;m a&nbsp;front-end developer from Ukraine
@@ -41,5 +39,3 @@ My rank on [codewars](https://www.codewars.com/users/Nailheart)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Nailheart/Nailheart)](https://github.com/Nailheart)
 [![wakatime](https://wakatime.com/badge/user/6e2dd1b4-523c-4f5a-9937-1d51f01cd510.svg)](https://wakatime.com/@6e2dd1b4-523c-4f5a-9937-1d51f01cd510)
-
-</div>
