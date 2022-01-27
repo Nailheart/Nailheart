@@ -58,15 +58,16 @@
 ## Паттерны проектирования:
 - [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
 
-## Frameworks:
+## Библиотеки/Фреймворки:
 - [UI Framework](https://codyhouse.co/)
+- [Moment js - дата и время](https://momentjs.com/)
 
 ## Cтатьи:
 - [Быстрый способ протестировать сайт в разных десктопных браузерах](https://habr.com/ru/post/111748/)
 - [Более 15 полезных инструментов для фронтендера с уклоном в CSS](https://habr.com/ru/company/skillfactory/blog/569874/)
 - [CANVAS шаг за шагом: Основы](https://habr.com/ru/post/111308/)
 - [Как сделать собственный видео-плеер на HTML5 Video](https://habr.com/ru/company/microsoft/blog/127295/)
-- [Мега-Учебник Flask](https://habr.com/ru/post/193242/)
+- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ### Отладка:
 - [Введение в отладку на примере Firefox DevTools](https://habr.com/ru/post/592095/)
