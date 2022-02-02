@@ -40,6 +40,7 @@
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ru_RU)
 - [Иконки для коммитов](https://gitmoji.dev/)
 - [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
+- [Шпаргалка по git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html)
 - [Git happens! 6 типичных ошибок Git и как их исправить](https://habr.com/ru/company/flant/blog/419733/)
 - [Github markdown emoji](https://gist.github.com/rxaviers/7360908)
 - [Github Metrics](https://github.com/lowlighter/metrics)
