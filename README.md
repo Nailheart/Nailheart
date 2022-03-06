@@ -26,6 +26,7 @@ Here is my little [portfolio&nbsp;website](https://nailheart.github.io/).
 [![Visual Studio Code](img/vscode.svg)](https://code.visualstudio.com/)
 [![Markdown](img/markdown.svg)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [![npm](img/npm.svg)](https://www.npmjs.com/)
+[![Jinja2](img/jinja.svg)](https://jinja.palletsprojects.com/en/2.11.x/templates/)
 
 ## Coding activity
 
