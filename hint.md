@@ -17,6 +17,7 @@
 - [Open source icons](https://ionic.io/ionicons)
 - [JSONLint - The JSON Validator](https://jsonlint.com/)
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
+- [Minimum Static Site Setup with Sass](https://thinkdobecreate.com/articles/minimum-static-site-sass-setup/)
 
 ## БЭМ:
 - [БЭМ](https://ru.bem.info/)
