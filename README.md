@@ -2,7 +2,7 @@
 
 # Hello there, 👋
 
-My&nbsp;name is&nbsp;Yaroslav. I&rsquo;m a&nbsp;web developer from Ukraine.<br>
+My&nbsp;name is&nbsp;Yaroslav. I&rsquo;m a&nbsp;front-end developer from Ukraine.<br>
 Here is my little [portfolio&nbsp;website](https://nailheart.github.io/).
 
 <a href="https://nailheart.github.io/"><img src="img/preview_bg.jpg" width="100%" alt="road to the top"></a>
