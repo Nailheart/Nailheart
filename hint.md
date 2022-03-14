@@ -59,6 +59,7 @@
 - [Moment js - дата и время](https://momentjs.com/)
 - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - [Tooltip & Popover Positioning Engine](https://popper.js.org/)
+- [Jump.js](http://callmecavs.com/jump.js/)
 
 ## Cтатьи:
 - [Более 15 полезных инструментов для фронтендера с уклоном в CSS](https://habr.com/ru/company/skillfactory/blog/569874/)
