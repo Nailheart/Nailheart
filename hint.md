@@ -11,7 +11,7 @@
 - [Shape Divider](https://www.shapedivider.app/)
 - [Pure CSS Loader](https://loading.io/css/)
 - [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
-- [Colorscheme - конвертер цветов](https://colorscheme.ru/color-converter.html)
+- [ColorSpace](https://mycolor.space/)
 - [Favicon Generator](https://realfavicongenerator.net/)
 - [I Love IMG](https://www.iloveimg.com/)
 - [Open source icons](https://ionic.io/ionicons)
