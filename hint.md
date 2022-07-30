@@ -18,6 +18,7 @@
 - [JSONLint - The JSON Validator](https://jsonlint.com/)
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 - [Minimum Static Site Setup with Sass](https://thinkdobecreate.com/articles/minimum-static-site-sass-setup/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
 
 ## БЭМ:
 - [БЭМ](https://ru.bem.info/)
