@@ -19,6 +19,8 @@
 - [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 - [Minimum Static Site Setup with Sass](https://thinkdobecreate.com/articles/minimum-static-site-sass-setup/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [Free online screen recorder](https://www.screencapture.com/)
+- [Video to GIF converter](https://ezgif.com/video-to-gif)
 
 ## БЭМ:
 - [БЭМ](https://ru.bem.info/)
