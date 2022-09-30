@@ -34,10 +34,10 @@ Here is my little [portfolio&nbsp;website](https://nailheart.github.io/).
 
 ## My courses
 
-I have successfully completed such courses
-[html academy](https://htmlacademy.ru/profile/id377731)
+I have successfully completed such courses:
 
-<a class="certificate-link" href="https://assets.htmlacademy.ru/certificates/intensive/163/377731.pdf?1610699754"><img src="certificate/static-en.jpg" width="270" height="380"></a>
-<a class="certificate-link" href="https://assets.htmlacademy.ru/certificates/intensive/165/377731.pdf?1610699688"><img src="certificate/adaptive-en.jpg" width="270" height="380"></a>
+<a href="https://assets.htmlacademy.ru/certificates/intensive/163/377731.pdf?1610699754"><img src="certificate/static-en.jpg" width="33%" height="380"></a>
+<a href="https://assets.htmlacademy.ru/certificates/intensive/165/377731.pdf?1610699688"><img src="certificate/adaptive-en.jpg" width="33%" height="380"></a>
+<img src="certificate/binary-academy.jpg" width="33%" height="380">
 
 [![wakatime](https://wakatime.com/badge/user/6e2dd1b4-523c-4f5a-9937-1d51f01cd510.svg)](https://wakatime.com/@6e2dd1b4-523c-4f5a-9937-1d51f01cd510)
