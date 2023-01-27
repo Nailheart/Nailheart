@@ -38,6 +38,4 @@ Here is my little [portfolio&nbsp;website](https://nailheart.github.io/).
 
 I have successfully completed such courses:
 
-<img src="certificate/static-en.jpg" width="33%" height="380">
-<img src="certificate/adaptive-en.jpg" width="33%" height="380">
-<img src="certificate/binary-academy.jpg" width="33%" height="380">
+<img src="certificate/static-en.jpg" width="33%" height="380"> <img src="certificate/adaptive-en.jpg" width="33%" height="380"> <img src="certificate/binary-academy.jpg" width="33%" height="380">
