@@ -38,18 +38,6 @@ Here is my little [portfolio&nbsp;website](https://nailheart.github.io/).
 
 I have successfully completed such courses:
 
-<picture>
-  <source media="(min-width: 850px)" width="32%" height="380" srcset="certificate/static-en.jpg">
-  <source media="(min-width: 600px)" width="49%" height="380" srcset="certificate/static-en.jpg">
-  <img src="certificate/static-en.jpg" width="100%" height="100%">
-</picture>
-<picture>
-  <source media="(min-width: 850px)" width="32%" height="380" srcset="certificate/adaptive-en.jpg">
-  <source media="(min-width: 600px)" width="49%" height="380" srcset="certificate/adaptive-en.jpg">
-  <img src="certificate/adaptive-en.jpg" width="100%" height="100%">
-</picture>
-<picture>
-  <source media="(min-width: 850px)" width="34%" height="380" srcset="certificate/binary-academy.jpg">
-  <source media="(min-width: 600px)" width="49%" height="380" srcset="certificate/binary-academy.jpg">
-  <img src="certificate/binary-academy.jpg" width="100%" height="100%">
-</picture>
+<img src="certificate/static-en.jpg" width="50%" height="50%"><img src="certificate/adaptive-en.jpg" width="50%" height="50%">
+<img src="certificate/binary-academy.jpg" width="100%" height="100%">
+
