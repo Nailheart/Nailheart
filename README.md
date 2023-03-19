@@ -25,6 +25,8 @@ Here is my little [portfolio&nbsp;website](https://nailheart.github.io/).
 [![HTML5](img/html5.svg)](https://www.w3.org/html/)
 [![CSS3](img/css3.svg)](https://www.w3.org/Style/CSS/)
 [![JavaScript](img/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[![React](img/react.png)](https://react.dev/https://react.dev/)
+[![Typescript](img/typescript.png)](https://www.typescriptlang.org/)
 [![Sass](img/sass.svg)](https://sass-lang.com/)
 [![Gulp](img/gulp.svg)](https://gulpjs.com/)
 [![Figma](img/figma.svg)](https://www.figma.com/)
