@@ -16,7 +16,9 @@ Here is my little [portfolio&nbsp;website](https://nailheart.github.io/).
 
 ## Coding activity
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nailheart&theme=tokyonight&hide_border=true&langs_count=5)](https://wakatime.com/@Nailheart)
+<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nailheart&theme=tokyonight&hide_border=true&langs_count=5)](https://wakatime.com/@Nailheart) -->
+
+<a href="https://wakatime.com/@Nailheart"><img width="100%" src="https://wakatime.com/share/@Nailheart/761943c9-ac7b-4e78-a95b-89c1e1bbf8e5.png" /></a>
 
 [![wakatime](https://wakatime.com/badge/user/6e2dd1b4-523c-4f5a-9937-1d51f01cd510.svg)](https://wakatime.com/@6e2dd1b4-523c-4f5a-9937-1d51f01cd510)
 
