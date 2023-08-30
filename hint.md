@@ -47,6 +47,7 @@
 - [RapidAPI](https://rapidapi.com/hub/)
 - [YH Finance API Specification](https://financeapi.net/)
 - [TMDB](https://developer.themoviedb.org/docs/getting-started)
+- [API Ninjas](https://api-ninjas.com/)
 
 ## Articles:
 - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
